@@ -114,6 +114,6 @@ Explore model explainability (SHAP, LIME for feature importance).
 📝 License
 This project is available under the MIT License. Feel free to use, modify, and distribute!
 
-✨ Credits
-Based on your Jupyter notebook analysis. Built with ❤️ using pandas, scikit-learn, and seaborn.
+✨ Credits to Narendra6305
+Based on  Jupyter notebook analysis. Built with ❤️ using pandas, scikit-learn, and seaborn.
 
