@@ -111,9 +111,6 @@ Tune hyperparameters and implement cross-validation for robustness.
 
 Explore model explainability (SHAP, LIME for feature importance).
 
-📝 License
-This project is available under the MIT License. Feel free to use, modify, and distribute!
-
 ✨ Credits to Narendra6305
 Based on  Jupyter notebook analysis. Built with ❤️ using pandas, scikit-learn, and seaborn.
 
